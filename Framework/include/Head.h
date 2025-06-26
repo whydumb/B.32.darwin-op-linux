@@ -1,6 +1,6 @@
 /*
  *   Head.h
- *   represents the head of the robot
+ *   로봇의 머리를 나타낸다
  *   Author: ROBOTIS
  *
  */
